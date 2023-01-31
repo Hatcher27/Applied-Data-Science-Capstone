@@ -25,5 +25,6 @@ SpaceX is the most successful company of the commercial space age, making space 
 3. Interactive Analytic with Visual and Dashboard
 * <a href="https://github.com/Hatcher27/Applied-Data-Science-Capstone/blob/main/Interactive%20Visual%20Analytics%20with%20Folium%20.ipynb"> Interactive Analytic with Folium </a>
 * <a href="https://github.com/Hatcher27/Applied-Data-Science-Capstone/blob/main/spacex_dash_app.py"> spacex_dash_app.py </a>
+4.Predictive Analysis
 * <a href="https://github.com/Hatcher27/Applied-Data-Science-Capstone/blob/main/SpaceX_Machine_Learning_Prediction.ipynb"> SpaceX_Machine_Learning_Prediction </a>
 
